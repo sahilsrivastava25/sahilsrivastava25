@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahilsrivastava827@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I like Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
