@@ -4,13 +4,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Sahil Srivastava</h1>
+         width="45" /> I'm Sahil Srivastava</h1> 
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FFFFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Computer+Vision⚡️;1200%2B+Hours+of+Coding+Experience+⚡️)</div>](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🎓 Student of Information Technology at **MMMUT**
+- 🎓 Student of Information Technology at **MMMUT** 
 
 - 🌱 I’m currently learning **Front End Development**
 
